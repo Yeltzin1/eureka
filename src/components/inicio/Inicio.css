@@ -1,0 +1,35 @@
+
+.sec1{
+    background-image: url('1.jpg');
+    background-size: cover;
+  background-repeat:no-repeat;
+
+}
+
+.textc{
+    background-color: white;
+    text-decoration-style: solid;
+}
+
+
+
+.card {
+  display: inline-block;
+  position: static;
+  margin: 15px;
+}
+
+.card img {
+    filter:brightness(0.8);
+    height: 175px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+.card:hover img{
+  filter:brightness(0.9);
+  cursor:pointer;
+
+
+
+}
