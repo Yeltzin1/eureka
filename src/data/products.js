@@ -17,7 +17,7 @@ export const products =[
         'id': 3,
         'name': 'Alquileres',
         'description':'Lorem ipsum dolor amet',
-        'url':'./assets/img/alquiler.jpg'
+        'url':'https://raw.githubusercontent.com/Yeltzin1/eureka/fc04350fa3def0296fc37aed2773e9beb839cf25/docs/assets/img/alquiler.jpg'
     }
 ]
 

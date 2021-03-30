@@ -7,7 +7,6 @@ export const Imagecards_2 = ({product}) => {
     const vinculo = ()=>{
         window.location.href = "https://www.facebook.com/eureka.ageneg"
     }
-    console.log(url)
     return (
         <div className="col">
             
