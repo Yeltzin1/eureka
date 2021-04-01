@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/eureka/static/css/main.157cd5d6.chunk.css",
+    "main.js": "/eureka/static/js/main.a667a7d1.chunk.js",
+    "main.js.map": "/eureka/static/js/main.a667a7d1.chunk.js.map",
+    "runtime-main.js": "/eureka/static/js/runtime-main.48ec327f.js",
+    "runtime-main.js.map": "/eureka/static/js/runtime-main.48ec327f.js.map",
+    "static/js/2.f3b9dcfb.chunk.js": "/eureka/static/js/2.f3b9dcfb.chunk.js",
+    "static/js/2.f3b9dcfb.chunk.js.map": "/eureka/static/js/2.f3b9dcfb.chunk.js.map",
+    "index.html": "/eureka/index.html",
+    "static/css/main.157cd5d6.chunk.css.map": "/eureka/static/css/main.157cd5d6.chunk.css.map",
+    "static/js/2.f3b9dcfb.chunk.js.LICENSE.txt": "/eureka/static/js/2.f3b9dcfb.chunk.js.LICENSE.txt",
+    "static/media/Inicio.css": "/eureka/static/media/1.0e4d0eea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48ec327f.js",
+    "static/js/2.f3b9dcfb.chunk.js",
+    "static/css/main.157cd5d6.chunk.css",
+    "static/js/main.a667a7d1.chunk.js"
+  ]
+}
